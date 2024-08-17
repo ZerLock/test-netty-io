@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run client" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.leodubosclard.Main" />
+    <module name="test-netty-io" />
+    <option name="PROGRAM_PARAMETERS" value="connect localhost 8080" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
